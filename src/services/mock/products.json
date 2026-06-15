@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "Camisa Flamengo 2025",
+    "description": "Camisa oficial do Flamengo temporada 2025, tecido dry-fit premium.",
+    "price": 189.9,
+    "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?w=600&h=600&fit=crop",
+    "category": "Camisas de Time"
+  },
+  {
+    "id": "2",
+    "name": "Regata Lakers NBA",
+    "description": "Regata oficial Los Angeles Lakers, edição limitada.",
+    "price": 249.9,
+    "imageUrl": "https://images.unsplash.com/photo-1574629810360-7abcae8d3f3e?w=600&h=600&fit=crop",
+    "category": "Regatas NBA"
+  },
+  {
+    "id": "3",
+    "name": "Kit Infantil Palmeiras",
+    "description": "Kit completo infantil Palmeiras: camisa + shorts + meia.",
+    "price": 159.9,
+    "imageUrl": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?w=600&h=600&fit=crop",
+    "category": "Kits Infantis"
+  },
+  {
+    "id": "4",
+    "name": "Camisa Brasil Seleção",
+    "description": "Camisa amarelinha da seleção brasileira, modelo torcedor.",
+    "price": 199.9,
+    "imageUrl": "https://images.unsplash.com/photo-1551958219-acbc608c6377?w=600&h=600&fit=crop",
+    "category": "Camisas de Time"
+  },
+  {
+    "id": "5",
+    "name": "Regata Bulls NBA",
+    "description": "Regata Chicago Bulls clássica, tecido respirável.",
+    "price": 229.9,
+    "imageUrl": "https://images.unsplash.com/photo-1519861531473-920026218438?w=600&h=600&fit=crop",
+    "category": "Regatas NBA"
+  },
+  {
+    "id": "6",
+    "name": "Kit Infantil Corinthians",
+    "description": "Kit infantil Corinthians com camisa, shorts e meia oficial.",
+    "price": 149.9,
+    "imageUrl": "https://images.unsplash.com/photo-1574629810360-7abcae8d3f3e?w=600&h=600&fit=crop",
+    "category": "Kits Infantis"
+  },
+  {
+    "id": "7",
+    "name": "Camisa Real Madrid",
+    "description": "Camisa branca Real Madrid temporada atual, patch Champions.",
+    "price": 279.9,
+    "imageUrl": "https://images.unsplash.com/photo-1566577731271-3a879191b725?w=600&h=600&fit=crop",
+    "category": "Camisas de Time"
+  },
+  {
+    "id": "8",
+    "name": "Regata Warriors NBA",
+    "description": "Regata Golden State Warriors, design City Edition.",
+    "price": 259.9,
+    "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?w=600&h=600&fit=crop",
+    "category": "Regatas NBA"
+  }
+]
